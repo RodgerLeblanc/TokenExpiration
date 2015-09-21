@@ -1,0 +1,17 @@
+<model>
+	<item appName="PocketSafe"  price="0.99$" description="Prevent your phone from pocket typing." link="appworld://content/59967056"/>
+	<item appName="ProtectMe"  price="1.99$" description="Protect your device from thieves." link="appworld://content/59962662"/>
+	<item appName="United"  price="Free" description="United blogs app." link="appworld://content/59957569"/>
+	<item appName="Hub2Watch"  price="1.99$" description="Your Hub on your Pebble." link="appworld://content/59952550"/>
+	<item appName="Silent Keys"  price="0.99$" description="Your language, your way. First and only third-party touchscreen keyboard." link="appworld://content/59945495"/>
+	<item appName="PhoneAbuser"  price="Free" description="Keep track of the time spent on your device and find out what a phone addict you are!" link="appworld://content/59942245"/>
+	<item appName="File System"  price="0.99$" description="Browse your entire file system, way beyond File Manager." link="appworld://content/59950807"/>
+	<item appName="UpFront"  price="Free" description="Active Frame to hire by third-party headless apps." link="appworld://content/55423610"/>
+	<item appName="Volt"  price="1.99$" description="Get reliable battery data for your extended battery." link="appworld://content/59935143"/>
+	<item appName="No Fly Zone"  price="Free" description="Simple game demonstrating Cascades Animation demo." link="appworld://content/59946084"/>
+	<item appName="Alarm2Watch"  price="0.99$" description="Alarm running headless that will ring both your phone and your Pebble." link="appworld://content/50699889"/>
+	<item appName="CallerWatch"  price="Free" description="Get CallerId on your Pebble (10.3 and up)." link="appworld://content/59942046"/>
+	<item appName="HomeScreen Pimp"  price="Free" description="Personalize your homescreen by creating invisible icons." link="appworld://content/59944979"/>
+	<item appName="ConsoleDebug"  price="Free" description="Developers : Get console logs on-the-go, even on release builds." link="appworld://content/59942507"/>
+	<item appName="Watch Notification"  price="Free" description="Change your phone's Notification profile right from your Pebble." link="appworld://content/59945044"/>
+</model>
